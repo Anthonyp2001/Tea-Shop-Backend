@@ -1,0 +1,16 @@
+asgiref
+certifi
+cloudinary
+dj-database-url
+Django
+django-cors-headers
+django-filter
+djangorestframework
+gunicorn
+Pillow
+
+pytz
+six
+sqlparse
+urllib3
+whitenoise
